@@ -1,0 +1,33 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, #3a3af0, #2738ef); 
+  }
+
+  .gradient-background {
+    background: linear-gradient(to bottom, #ffffff, #f0f0f0);
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .login-heading {
+    text-align: center;
+  }
+  
+  #login-button {
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin: 0 auto;
+  }
+  
+  #logout-button {
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin: 0 auto;
+  }
+  
